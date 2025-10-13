@@ -1,0 +1,27 @@
+.container {
+  width: 300px;
+  margin: auto;
+  font-family: sans-serif;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+input,
+select,
+button {
+  width: 100%;
+  margin: 5px 0;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+#result {
+  margin-top: 10px;
+  font-weight: bold;
+}

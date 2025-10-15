@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Emirin",
+        "age": 65,
+        "isStudent": false,
+        "hobbies": [
+            "Shopping",
+            "Build lego",
+            "Coding"
+        ]
+    },
+    {
+        "name": "Maria",
+        "age": 50,
+        "isStudent": false,
+        "hobbies": [
+            "Shopping",
+            "Build lego",
+            "Coding"
+        ]
+    }
+]
